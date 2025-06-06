@@ -1,0 +1,95 @@
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+type: software
+title: WITCH - World Induced Technical Change Hybrid model
+abstract: WITCH is a global dynamic model integrating the interactions between the economy, the technological options, and climate change.
+version: "5.2.1"
+date-released: 2021-01-15
+authors:
+- family-names: "Drouet"
+  given-names: "Laurent"
+  orcid: https://orcid.org/0000-0002-7210-308X
+  affiliation: ["Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici", "RFF-CMCC European Institute on Economics and the Environment"]
+- family-names: "Emmerling"
+  given-names: "Johannes"
+  orcid: https://orcid.org/0000-0003-0916-9913
+  affiliation: ["Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici", "RFF-CMCC European Institute on Economics and the Environment"]
+- family-names: "Aleluia Reis"
+  given-names: "Lara" 
+  orcid: https://orcid.org/0000-0002-6676-7007
+  affiliation: ["Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici", "RFF-CMCC European Institute on Economics and the Environment"]
+- family-names: "Andreoni"
+  given-names: "Pietro"
+  orcid: https://orcid.org/0000-0003-2487-1671
+  affiliation: ["Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici", "RFF-CMCC European Institute on Economics and the Environment"]
+- family-names: "Azuero-Pedraza"
+  given-names: "Cindy"
+  orcid: https://orcid.org/0000-0002-2964-8340
+  affiliation: ["Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici", "RFF-CMCC European Institute on Economics and the Environment"]
+- family-names: "Bevione"
+  given-names: "Michela"
+  orcid: https://orcid.org/0000-0002-5009-0134
+- family-names: "Calcaterra"
+  given-names: "Matteo"
+  orcid: https://orcid.org/0000-0001-9465-2082
+- family-names: "Carrara"
+  given-names: "Samuel"
+  orcid: https://orcid.org/0000-0003-4050-8012
+- family-names: "Chiani"
+  given-names: "Leonardo"
+  orcid: https://orcid.org/0009-0007-2491-6290
+- family-names: "Colelli"
+  given-names: "Francesco Pietro"
+  orcid: https://orcid.org/0000-0003-3507-8118
+- family-names: "Di Bella"
+  given-names: "Alice"
+  orcid: https://orcid.org/0000-0003-3814-7537
+- family-names: "De Cian"
+  given-names: "Enrica"
+  orcid: https://orcid.org/0000-0001-7134-2540
+- family-names: "De Maere D'Aertrycke"
+  given-names: "Gauthier"
+- family-names: "Marangoni"
+  given-names: "Giacomo"
+  orcid: https://orcid.org/0000-0003-3994-380X
+- family-names: "Naghash"
+  given-names: "Hesam" 
+  orcid: https://orcid.org/0000-0001-6719-2172
+- family-names: "Rottoli"
+  given-names: "Marianna"
+  orcid: https://orcid.org/0000-0001-7108-908X
+- family-names: "Vinca"
+  given-names: "Adriano"
+  orcid: https://orcid.org/0000-0002-3051-178X
+- family-names: "Sferra"
+  given-names: "Fabio"
+  orcid: https://orcid.org/0000-0003-4408-2303
+- family-names: "Longden"
+  given-names: "Tom"
+  orcid: https://orcid.org/0000-0001-7593-659X
+- family-names: "Schlegel"
+  given-names: "Nicolas"  
+- family-names: "Bosetti"
+  given-names: "Valentina"
+  orcid: https://orcid.org/0000-0003-4970-0027
+  affiliation: ["Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici", "RFF-CMCC European Institute on Economics and the Environment"]
+- family-names: "Tavoni"
+  given-names: "Massimo"
+  orcid: https://orcid.org/0000-0001-5069-4707
+  affiliation: ["Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici", "RFF-CMCC European Institute on Economics and the Environment"]
+license: Apache-2.0
+url: https://www.witchmodel.org/
+repository-code: https://github.com/witch-team/witch
+keywords:
+  - integrated
+  - energy
+  - economy
+  - climate
+  - model
+  - technology
+  - climate change
+  - mitigation
+  - adaptation
+  - impacts
+  - policy
+  - decision making
